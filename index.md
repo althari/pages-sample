@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Welcome everyone to my spiffy site!
-
+You have entered the digital world of Rawan's creativity! Explore my adventures, proud moments, and fun reflection!
 
 #### Here are some example pages:
 
